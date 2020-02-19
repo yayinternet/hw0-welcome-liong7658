@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: monospace;
+  font-family: Monaco;
   background:url(./101.jpg)  no-repeat center center;
   background-size:cover;
 }
