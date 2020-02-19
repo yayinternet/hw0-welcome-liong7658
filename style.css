@@ -1,6 +1,7 @@
 body {
   font-family: monospace;
-  background:100.jpg;
+  background:url(./100.jpg)  no-repeat center center;
+  background-size:cover;
 }
 p{
   color:darkblue
